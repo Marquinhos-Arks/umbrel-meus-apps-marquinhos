@@ -1,0 +1,8 @@
+id: marquinhos-agent-dvr
+name: Agent DVR
+tagline: Vigilância por vídeo com IA
+description: Software de NVR para câmeras IP com detecção de movimento e interface web. Versão 6.6.1.0.
+developer: iSpy Connect
+version: 6.6.1.0
+port: 8090
+icon: logo.png
